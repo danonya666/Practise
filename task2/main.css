@@ -1,0 +1,60 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: "AR CHRISTY";
+}
+
+input{
+    background-color: lavender;
+    text-align: center;
+    font-family: "Agency FB";
+    height: 21px;
+    width: 555px;
+}
+
+label{
+    font-family: "AR BERKLEY";
+
+}
+
+button{
+    width: 66px;
+    height: 56px;
+}
+
+.new_label{
+    margin-left: 55px;
+}
+
+.new_button{
+    margin-left: 55px;
+}
+
+.new_button:hover{
+    color: #fff;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+.new_label:hover{
+    color: #fff;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+label:hover{
+    color: #fff;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+h1:hover{
+    color: #fff;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
